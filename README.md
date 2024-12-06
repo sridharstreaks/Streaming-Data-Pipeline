@@ -70,7 +70,7 @@ This project aims to overcome these challenges by implementing a real-time data 
 8. **Run Spark Streaming**:
 
    ```bash
-   python3 spark-streaming.py
+   python3 spark_cassandra.py
    ```
    
 9. **Monitor Kafka Topics with Kafdrop**:
