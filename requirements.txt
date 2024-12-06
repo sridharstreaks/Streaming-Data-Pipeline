@@ -1,0 +1,9 @@
+apache-airflow
+kafka-python
+kafka-python-ng
+cassandra-driver
+spark
+pyspark==3.5.1
+pandas
+apache-airflow-providers-apache-kafka
+requests
